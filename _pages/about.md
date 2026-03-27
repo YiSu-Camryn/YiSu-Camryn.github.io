@@ -33,7 +33,7 @@ My research interest includes Trustworthy AI and AI Safety.
 **Conference on Empirical Methods in Natural Language Processing(EMNLP2025, Findings)**
 
 # 📖 Educations
-- *2026.09 - 2031.06(expected)*, Ph.D, <a href='https://www.umass.edu/'>University of Massachusetts Amherst</a>. 
+- *2026.09 - (expected 2031)*, Ph.D. (starting Fall 2026), <a href='https://www.umass.edu/'>University of Massachusetts Amherst</a>. 
 - *2018.09 - 2022.06*, Undergraduate, <a href='https://www.scut.edu.cn/'>South China University of Technology</a>. 
 
 # 💻 Internships
