@@ -39,8 +39,8 @@ My research interest includes Trustworthy AI and AI Safety.
 
 # 💼 Work Experience
 - *2024.05 - 2025.11*, Backend Development Engineer, TpLink.
-- *2022.07 - 2024.04*, Backend Development Engineer, ByteDance.
+- *2022.07 - 2024.04*, Backend Development Engineer, <a href='https://www.bytedance.com/'>ByteDance</a>.
 
 # 🔬 Research Experience
-- *2025.09 - present*, Research Assistant, <a href="https://www.unc.edu/">University of North Carolina at Chapel Hill</a>. (Supervisor: Prof. Guorong Wu)
+- *2025.09 - 2025.12*, Research Assistant, <a href="https://www.unc.edu/">University of North Carolina at Chapel Hill (UNC)</a>. (Supervisor: Prof. Guorong Wu)
 - *2024.11 - 2025.05*, Research Assistant, <a href="https://www.kaust.edu.sa/">King Abdullah University of Science and Technology (KAUST)</a>. (Supervisor: Prof. Di Wang)
