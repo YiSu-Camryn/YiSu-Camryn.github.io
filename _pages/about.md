@@ -30,6 +30,7 @@ My research interest includes Trustworthy AI and AI Safety.
 [Understanding how value neurons shape the generation of specified values in llms](https://aclanthology.org/2025.findings-emnlp.501.pdf)
 
 **Yi Su**, Jiayi Zhang, Shu Yang, Xinhai Wang, Lijie Hu, Di Wang
+
 **Conference on Empirical Methods in Natural Language Processing(EMNLP2025, Findings)**
 
 # 📖 Educations
