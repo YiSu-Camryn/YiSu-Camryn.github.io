@@ -19,7 +19,7 @@ redirect_from:
 
 I am an incoming CS PhD student at the <a href='https://www.umass.edu/'>University of Massachusetts Amherst</a>, advised by Prof. <a href='https://people.cs.umass.edu/~juanzhai/'>Juan Zhai</a>. I received my B.Eng in Network Engineering from <a href='https://www.scut.edu.cn/'>South China University of Technology</a> in 2022. 
 
-My research interest includes Software Engineering and LLM Reasoning.
+My research interest includes Trustworthy AI and AI Safety.
 
 
 # 🔥 News
